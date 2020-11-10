@@ -1,16 +1,16 @@
-### Hi there 👋
+My name is Rodrigo, and I'm currently focused in learning Python and Javascript!
 
-<!--
-**romosken/romosken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm more of a Backend guy, I love to break my head trying to solve challenges! 🤔🤔
 
-Here are some ideas to get you started:
+See that something you wrote in a text file is doing several things in the system fascinates me! 🤩🤖👾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have some experience in Java, VBA, Deluge (for Zoho Softwares), MySQL and C++ 😉
+
+
+- 🔭 I’m currently working on a Checkers with AI in Python
+
+- 📫 How to reach me: rodrigo.mosken@outlook.com
+
+- 👨‍🎓👨‍💻 Currently in the 4th period in Analysis and System Development at Fatec Zona Sul, São Paulo/SP
+
+-🤵 LikendIn: https://www.linkedin.com/in/rodrigo-mosken/
