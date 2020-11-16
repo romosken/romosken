@@ -6,10 +6,9 @@ I'm more of a Backend guy, I love to break my head trying to solve challenges! �
 
 See that something you wrote in a text file is doing several things in the system fascinates me! 🤩🤖👾
 
-I have some experience in Java, VBA, Deluge (for Zoho Softwares), MySQL and C++ 😉
+I have some experience in Java, VBA, Deluge (for Zoho Softwares), MySQL, C++ and Python 😉
 
 
-- 🔭 I’m currently working on a Checkers with AI in Python
 
 - 👨‍🎓👨‍💻 Currently in the 4th period in Analysis and System Development at Fatec Zona Sul, São Paulo/SP
 
