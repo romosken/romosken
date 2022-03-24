@@ -10,7 +10,7 @@ I have some experience in Java, VBA, Deluge (for Zoho Softwares), MySQL, C++ and
 
 
 
-- 👨‍🎓👨‍💻 Currently in the 6th period in Analysis and System Development at Fatec Zona Sul, São Paulo/SP
+- 👨‍🎓👨‍💻 Graduated in Systems Analysis and Development at Fatec Zona Sul, São Paulo/SP
 
 - 📧 E-mail: rodrigo.mosken@outlook.com
 
