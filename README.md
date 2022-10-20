@@ -1,8 +1,6 @@
-# Hello there!
+# Hello there! My name is Rodrigo!
 
-### My name is Rodrigo, and I'm currently focused in learning SpringBoot and Python!
-
-###
+I'm currently focused in learning SpringBoot and Python!
 
 I'm more of a Backend guy, I love to break my head trying to solve challenges! 🤔🤔
 
