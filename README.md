@@ -1,12 +1,18 @@
 # Hello there!
 
-My name is Rodrigo, and I'm currently focused in learning SpringBoot and Python!
+### My name is Rodrigo, and I'm currently focused in learning SpringBoot and Python!
+
+###
 
 I'm more of a Backend guy, I love to break my head trying to solve challenges! 🤔🤔
 
 See that something you wrote in a text file is doing several things in the system fascinates me! 🤩🤖👾
 
-- 👨‍🎓👨‍💻 Graduated in Systems Analysis and Development at Fatec Zona Sul, São Paulo/SP
+###
+
+-  👨‍🎓 Graduated in Systems Analysis and Development at Fatec Zona Sul, São Paulo/SP
+
+-  👨‍💻 I’m currently working at **Itaú Unibanco**
 
 ##
 
@@ -16,13 +22,13 @@ See that something you wrote in a text file is doing several things in the syste
 ##
 
 <div style="display: inline_block" > </br>
-  <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="cpp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="java" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="cpp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="kafka" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
-  <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="flask" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" alt="kafka" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
+  <img align="center" alt="mysql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div> 
 
 ##
