@@ -35,8 +35,8 @@ See that something you wrote in a text file is doing several things in the syste
 
 <div align="center"></br>
   <a href="https://github.com/romosken">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=romosken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romosken&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=romosken&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romosken&layout=compact&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000"/>
 </div>
 
 <div align="center">
