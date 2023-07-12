@@ -1,8 +1,8 @@
 # Hello there! My name is Rodrigo!
 
-I'm currently focused in learning SpringBoot and Python!
+I'm currently focused in learning Kotlin and amplify my knowledge in code best practices and architecture!
 
-I'm more of a Backend guy, I love to break my head trying to solve challenges! 🤔🤔
+I'm a Backend guy that loves to break the head solving challenges! 🤔🤔
 
 See that something you wrote in a text file is doing several things in the system fascinates me! 🤩🤖👾
 
