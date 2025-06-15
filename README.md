@@ -1,6 +1,6 @@
 # Hello there! My name is Rodrigo!
 
-I'm currently focused in learning Kotlin and amplify my knowledge in code best practices and architecture!
+I'm currently focused in improving my Javascript and its frameworks!
 
 I'm a Backend guy that loves to break the head solving challenges! 🤔🤔
 
@@ -10,7 +10,9 @@ See that something you wrote in a text file is doing several things in the syste
 
 -  👨‍🎓 Graduated in Systems Analysis and Development at Fatec Zona Sul, São Paulo/SP
 
--  👨‍💻 I’m currently working at **DGL Sistemas**
+-  👨‍🎓 Specializing in Architecture for Distributed Systems at PUC Minas
+
+-  👨‍💻 I’m currently working at **TQI**
 
 ##
 
